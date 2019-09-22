@@ -1,0 +1,8 @@
+Допустим, имеется таблица продуктов, содержащая поля (id, name) и, возможно, другие.
+Также имеется таблица категорий со структурой (id, prod_id, name).
+Поля id - ключевые, name - имена соответствующих элементов, а prod_id - это ключ из таблицы продуктов.
+
+
+SELECT Products.name, NULL FROM Products WHERE Products.id NOT IN (SELECT prod_id FROM Categories)
+UNION
+SELECT p.name, c.name FROM Products p inner join Categories c on p.id = c.prod_id
