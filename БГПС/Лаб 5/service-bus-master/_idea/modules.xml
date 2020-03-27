@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core/bus-core.iml" filepath="$PROJECT_DIR$/core/bus-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datasource-spring-jdbc/bus-datasource-spring-jdbc.iml" filepath="$PROJECT_DIR$/datasource-spring-jdbc/bus-datasource-spring-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messaging-spring-mail/bus-messaging-spring-mail.iml" filepath="$PROJECT_DIR$/messaging-spring-mail/bus-messaging-spring-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messaging-spring-rest/bus-messaging-spring-rest.iml" filepath="$PROJECT_DIR$/messaging-spring-rest/bus-messaging-spring-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus-parent.iml" filepath="$PROJECT_DIR$/bus-parent.iml" />
+    </modules>
+  </component>
+</project>

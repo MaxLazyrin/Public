@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bus-core" />
+        <module name="bus-messaging-spring-rest" />
+        <module name="bus-messaging-spring-mail" />
+        <module name="bus-datasource-spring-jdbc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bus-core" target="1.8" />
+      <module name="bus-datasource-spring-jdbc" target="1.8" />
+      <module name="bus-messaging-spring-mail" target="1.8" />
+      <module name="bus-messaging-spring-rest" target="1.8" />
+      <module name="bus-parent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
