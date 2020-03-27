@@ -1,0 +1,8 @@
+net\progruzovik\bus\dao\InstanceJdbc.class
+net\progruzovik\bus\util\PathResolver.class
+net\progruzovik\bus\dao\BinaryDao.class
+net\progruzovik\bus\dao\BinaryDirectory.class
+net\progruzovik\bus\util\EntityNameConverter.class
+net\progruzovik\bus\util\PathManager.class
+net\progruzovik\bus\dao\EntityJdbc.class
+net\progruzovik\bus\util\CharBufferNameConverter.class

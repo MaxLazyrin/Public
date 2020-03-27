@@ -1,0 +1,5 @@
+net\progruzovik\bus\message\model\IntegrationPlatformResponse.class
+net\progruzovik\bus\message\RestSender.class
+net\progruzovik\bus\message\BusRestReceiver.class
+net\progruzovik\bus\message\RestReceiver.class
+net\progruzovik\bus\message\model\RestMessageDto.class

@@ -1,0 +1,3 @@
+net\progruzovik\bus\message\MailHandler.class
+net\progruzovik\bus\message\MailSender.class
+net\progruzovik\bus\message\BusMailHandler.class
