@@ -1,0 +1,17 @@
+com\lab\demo\model\Student.class
+com\lab\demo\model\Mark.class
+com\lab\demo\controller\SpecificJournalController.class
+com\lab\demo\model\JournalRecord.class
+com\lab\demo\controller\JournalRecordController.class
+com\lab\demo\dao\MarkJdbc.class
+com\lab\demo\dao\StudentJdbc.class
+com\lab\demo\DemoApplication.class
+com\lab\demo\model\SpecificJournal.class
+com\lab\demo\model\StudyGroup.class
+com\lab\demo\controller\StudyGroupController.class
+com\lab\demo\dao\StudyGroupJdbc.class
+com\lab\demo\dao\SpecificJournalJdbc.class
+com\lab\demo\controller\MarkController.class
+com\lab\demo\DemoApplication$WebConfig.class
+com\lab\demo\dao\JournalRecordJdbc.class
+com\lab\demo\controller\StudentController.class
