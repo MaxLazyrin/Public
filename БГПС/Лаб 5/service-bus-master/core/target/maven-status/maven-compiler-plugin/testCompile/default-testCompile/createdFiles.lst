@@ -1,0 +1,3 @@
+net\progruzovik\bus\replication\ReplicationServiceTest.class
+net\progruzovik\bus\message\MessageHandlerTest.class
+net\progruzovik\bus\message\reader\InstanceInitializerTest.class
